@@ -41,7 +41,10 @@ java -cp out Main
 
 ## Anggota Kelompok
 
+## Anggota Kelompok
+
 | Nama | NIM |
-| Ayu Liza Putri Wiwaha |F1D02310003 |
-| Zainul Majdi |F1D023100028 |
-| Lalu Rifqi Ramadhan |F1D02310071 |
+|---|---|
+| Ayu Liza Putri Wiwaha | F1D02310003 |
+| Zainul Majdi | F1D023100028 |
+| Lalu Rifqi Ramadhan | F1D02310071 |
