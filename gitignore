@@ -1,0 +1,10 @@
+# Hasil compile, tidak perlu masuk repo
+out/
+*.class
+
+# File bawaan editor/OS
+.vscode/
+.idea/
+nbproject/
+Thumbs.db
+.DS_Store
